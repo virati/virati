@@ -1,18 +1,8 @@
 ## Hi! I'm Vineet
 I'm an MD/PhD student at Emory/GeorgiaTech in Atlanta.
-My research work is focused on reverse-engineering deep brain stimulation (DBS) in depression.
+My research work was focused on reverse-engineering deep brain stimulation (DBS) in depression.
 
-Moving forward I'm focusing more on control theory and seeing how we can formalize the 'art' of engineering into medical practice.
+Moving forward I'll be focusing more on control theory, its applications in medicine, and AI models of emotion+creativity.
 
-### Major Projects
-* PhD Work
-  * DBSpace
-  * mismatch_compression
-  * SCC_readout
-  * cortical_signatures
-* AutoLie
-* CardiacTensor
-* SGView
-
-### Latest Posts
-Visit [my blog](https://blog.tiruvadi.com) until I figure out how to make these profiles dynamic...
+### Blog Posts
+Visit [my blog](https://blog.tiruvadi.net) until I figure out how to make these profiles dynamic...
