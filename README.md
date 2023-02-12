@@ -1,8 +1,8 @@
 ## Hi! I'm Vineet
-I'm an MD/PhD student at Emory/GeorgiaTech in Atlanta.
-My research work was focused on reverse-engineering antidepressant deep brain stimulation (DBS).
 
-Moving forward I'll be focusing more on control theory, its applications in medicine, and AI models of emotion+creativity.
+Here's my main github repo, with code at various stages of actualization.
+
+For a curated overview, head to [virati.github.io](https://virati.github.io).
 
 ### Blog Posts
 Visit [my blog](https://blog.tiruvadi.net) until I figure out how to make these profiles dynamic...
