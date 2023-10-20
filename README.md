@@ -1,8 +1,9 @@
 ## Hi! I'm Vineet
 
-Here's my main github repo, with code at various stages of actualization.
+* For a curated overview of projects, head to [virati.github.io](https://virati.github.io).
+* For an overview of my background and interests, head to [vineet.tiruvadi.net](my website).
 
-For a curated overview, head to [virati.github.io](https://virati.github.io).
+But you're at my Github Page, so here are my main github repos, at various stages of actualization.
 
 ### Blog Posts
 Visit [my blog](https://blog.tiruvadi.net) until I figure out how to make these profiles dynamic...
