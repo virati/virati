@@ -5,5 +5,8 @@
 
 But you're at my Github Page, so here are my main github repos, at various stages of actualization.
 
+### Research
+For more information about my (never-ending) research interest, check out [RESEARCH.md](My Research Vision).
+
 ### Blog Posts
 Visit [my blog](https://blog.tiruvadi.net) until I figure out how to make these profiles dynamic...
