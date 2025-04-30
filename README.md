@@ -9,7 +9,7 @@ Welcome to my Github Space - there are a lot of repos here at various stages of 
 I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
 Before that, I did an MD/PhD at Emory/GeorgiaTech in Biomedical Engineering and Electrical and Computer Engineering.
 
-Somewhere in between I did math in the French Riviera, strategized with Congressman John Lewis, and toured the AI Startup Space in various roles.
+Somewhere in between I did math in the French Riviera, strategized with Congressman John Lewis, and sampled the AI Startup Space.
 
 ### Research
 I work mostly in Neuroengineering and MedTech, taking a *reverse engineering* approach that starts with clinical dynamics and decision-making *prima fascie*.
