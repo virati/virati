@@ -1,5 +1,6 @@
 ## Welcome!
 I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
+
 I mostly work on "AI" at the intersection of Neuroscience, Medicine, and Control Theory.
 
 ---
