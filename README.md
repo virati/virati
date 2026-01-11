@@ -1,15 +1,17 @@
 ## Welcome!
+I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
+I mostly work on "AI" at the intersection of Neuroscience, Medicine, and Control Theory.
 
-Welcome to my Github Space - there are a lot of repos here at various stages of actualization. That can be hard to navigate.
+---
+
+There are a lot of repos here at various stages of actualization.
 
 * For a curated overview of projects, head to [virati.github.io](https://virati.github.io).
 * For an overview of my background and portfolio, head to [my website](https://vineet.tiruvadi.net).
 
 ## About Me
-I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
-Before that, I did an MD/PhD at Emory/GeorgiaTech in Biomedical Engineering and Electrical and Computer Engineering.
-
-Somewhere in between I did math in the French Riviera, strategized with Congressman John Lewis, and sampled the AI Startup Space.
+The most salient thing about me: I did an MD/PhD/MS at Emory/GeorgiaTech in Biomedical Engineering and Electrical and Computer Engineering.
+I added in math research in the French Riviera, strategized with Congressman John Lewis, and sampled the AI Startup Space because it sounded fun.
 
 ### Research
 I work mostly in Neuroengineering and MedTech, taking a *reverse engineering* approach that starts with clinical dynamics and decision-making *prima fascie*.
