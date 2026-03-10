@@ -5,9 +5,10 @@ I work at the intersection of Neuro, Medicine, Law, and Control Theory - using A
 Visit [my blog](https://blog.tiruvadi.net) for more of my background and thoughts.
 
 ### Research
-Right now I'm focused on dynamical foundation models for neuroengineering
+Right now I'm focused on dynamical foundation models for neuroengineering.
+Using multimodal measurements and latent space models, I try to more rationally engineer neural controllers that have strict ethical guardrails.
 
-I'm mostly studying applications of control theory in neuroscience, medicine, and law.
+Off hours, I'm mostly building applications of control theory in neuroscience, medicine, and law.
 Trying for a pen-and-paper math approach to scientific research and translational impact.
 
 For more information about my research interest, check out [my Research Vision](RESEARCH.md).
