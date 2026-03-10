@@ -6,7 +6,7 @@ Visit [my blog](https://blog.tiruvadi.net) for more of my background and thought
 
 ### Research
 Right now I'm focused on dynamical foundation models for neuroengineering.
-Using multimodal measurements and latent space models, I try to more rationally engineer neural controllers that have strict ethical guardrails.
+Using multimodal measurements and latent space models, I try to more rationally engineer neural controllers that have strict safety guardrails.
 
 Off hours, I'm mostly building applications of control theory in neuroscience, medicine, and law.
 Trying for a pen-and-paper math approach to scientific research and translational impact.
