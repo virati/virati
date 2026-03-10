@@ -5,7 +5,7 @@ I work at the intersection of Neuroengineering, Medicine, and Control Theory - u
 
 ---
 
-## About Me
+### About Me
 Visit [my blog](https://blog.tiruvadi.net) for more of my background and thoughts.
 
 ### Research
