@@ -3,9 +3,6 @@ I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctora
 
 I work at the intersection of Neuroengineering, Medicine, and Control Theory - using AI to focus on people-goals.
 
----
-
-### About Me
 Visit [my blog](https://blog.tiruvadi.net) for more of my background and thoughts.
 
 ### Research
