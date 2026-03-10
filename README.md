@@ -1,11 +1,15 @@
 ## Welcome!
 I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
-
-I work at the intersection of Neuroengineering, Medicine, and Control Theory - using AI to focus on people-goals.
+I work at the intersection of Neuro, Medicine, Law, and Control Theory - using AI iff it makes sense.
 
 Visit [my blog](https://blog.tiruvadi.net) for more of my background and thoughts.
 
 ### Research
+Right now I'm focused on dynamical foundation models for neuroengineering
+
+I'm mostly studying applications of control theory in neuroscience, medicine, and law.
+Trying for a pen-and-paper math approach to scientific research and translational impact.
+
 For more information about my research interest, check out [my Research Vision](RESEARCH.md).
 
 ## Repositories
