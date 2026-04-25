@@ -1,8 +1,12 @@
 ## Welcome!
-I'm Vineet Tiruvadi, a Research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
-I work at the intersection of Neuro, Medicine, Law, and Control Theory - using AI iff it makes sense.
+I'm [Vineet Tiruvadi](https://vineet.tiruvadi.net), a "Reverse" Neuroengineer and AI/Controls Applied Scientist.
 
-Visit [my blog](https://blog.tiruvadi.net) for more of my background and thoughts.
+I'm currently, a research Fellow at Harvard Medical School and Postdoctoral Scholar at Brigham and Women's Hospital.
+I study structural wiring diagrams of whole-brain circuits from a clinical relevance lens.
+Beyond that, I my interests are in the intersection of Neuro, Medicine, Law, and Control Theory - with help from AI iff it makes sense.
+
+My main social media is [LinkedIn](https://www.linkedin.com/in/vineettiruvadi/) and [Twitter](https://x.com/vineettiruvadi).
+Visit [my blog](https://blog.tiruvadi.net) or [Medium Page](https://virati.medium.com/) for more of my thoughts.
 
 ### Research
 Right now I'm focused on dynamical foundation models for neuroengineering.
